@@ -4,7 +4,7 @@ def turn_count(board)
     if (square == "" || square == " " || square == nil)
       counter
     else
-      counter +=1
+      counter += 1
     end
   end
 end
