@@ -6,6 +6,7 @@ def turn_count(board)
     else
       counter += 1
     end
+    return counter
   end
 end
 def current_player(board)
